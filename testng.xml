@@ -1,1 +1,9 @@
-<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >  <suite name="Suite1" verbose="1" >  <test name="myJenkinsIntegrationGroupID.myJenkinsIntegrationArttifactID" >    <classes>       <class name="firstTestNGClass" />    </classes>  </test>   <test name="Regression1">    <classes>      <class name="myJenkinsIntegrationArttifactID.firstTestNGClass"/>    </classes>  </test></suite>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="myJenkinsIntegrationGroupID.myJenkinsIntegrationArttifactID.firstTestNGClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
