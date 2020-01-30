@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3981" started-at="2020-01-29T23:26:53Z" finished-at="2020-01-29T23:26:57Z">
+  <suite name="Default suite" duration-ms="5580" started-at="2020-01-30T01:04:54Z" finished-at="2020-01-30T01:04:59Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3981" started-at="2020-01-29T23:26:53Z" finished-at="2020-01-29T23:26:57Z">
+    <test name="Default test" duration-ms="5580" started-at="2020-01-30T01:04:54Z" finished-at="2020-01-30T01:04:59Z">
       <class name="myJenkinsIntegrationGroupID.myJenkinsIntegrationArttifactID.firstTestNGClass">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:myJenkinsIntegrationGroupID.myJenkinsIntegrationArttifactID.firstTestNGClass@6e3c1e69]" test-instance-name="" name="launchBrowser" is-config="true" duration-ms="3895" started-at="2020-01-29T18:26:53Z" finished-at="2020-01-29T18:26:57Z">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:myJenkinsIntegrationGroupID.myJenkinsIntegrationArttifactID.firstTestNGClass@6e3c1e69]" test-instance-name="" name="launchBrowser" is-config="true" duration-ms="5490" started-at="2020-01-29T20:04:54Z" finished-at="2020-01-29T20:04:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:myJenkinsIntegrationGroupID.myJenkinsIntegrationArttifactID.firstTestNGClass@6e3c1e69]" test-instance-name="" name="verifyHomepageTitle" duration-ms="12" started-at="2020-01-29T18:26:57Z" finished-at="2020-01-29T18:26:57Z">
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:myJenkinsIntegrationGroupID.myJenkinsIntegrationArttifactID.firstTestNGClass@6e3c1e69]" test-instance-name="" name="verifyHomepageTitle" duration-ms="12" started-at="2020-01-29T20:04:59Z" finished-at="2020-01-29T20:04:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyHomepageTitle -->
-        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:myJenkinsIntegrationGroupID.myJenkinsIntegrationArttifactID.firstTestNGClass@6e3c1e69]" test-instance-name="" name="terminateBrowser" is-config="true" duration-ms="66" started-at="2020-01-29T18:26:57Z" finished-at="2020-01-29T18:26:57Z">
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:myJenkinsIntegrationGroupID.myJenkinsIntegrationArttifactID.firstTestNGClass@6e3c1e69]" test-instance-name="" name="terminateBrowser" is-config="true" duration-ms="70" started-at="2020-01-29T20:04:59Z" finished-at="2020-01-29T20:04:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminateBrowser -->
